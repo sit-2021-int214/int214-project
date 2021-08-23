@@ -16,11 +16,12 @@ This repository using for description Term Project in INT214 Statistics for Info
 
 #### 2.) Initial with GIT
 
-Our subject have git organization name [sit-2021-int214](https://github.com/sit-2021-int214). Please join as members in this git organization and following this steps:
+Our subject have git organization name [sit-2021-int214](https://github.com/sit-2021-int214). One of members in your team join as members in this git organization and following this steps:
 
-1. Create repository name as format 'groupid-topics' (ex. `001-survey`)
-2. Invites you friends in repository
-3. Set structure file like [int214-template repository](https://github.com/sit-2021-int214/int214-template)
+1. One of team member create team repository in Organization. Set name as format 'groupid-topics' (ex. `001-survey`) **You can change it laters
+2. Download as ZIP: [int214-template repository](https://github.com/sit-2021-int214/int214-template). Then push to your team repository
+4. Invites you friends to team repository that you created
+5. Edit details in README.md
 
 ## Assessment Weighting
 
