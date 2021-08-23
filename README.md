@@ -3,8 +3,7 @@
 This repository using for description Term Project in INT214 Statistics for Information Technology
 
 ## List of Team
-
-https://docs.google.com/spreadsheets/d/e/2PACX-1vTAUUe9YGEoZzqtxjPxfWImJfY1nh5BiScxVOxhs4RLAYg0e_xNEkNz78sUW8ycHy7YPiAmTogw_NFh/pubhtml?gid=0&single=true
+[See List of team here](https://docs.google.com/spreadsheets/d/e/2PACX-1vTAUUe9YGEoZzqtxjPxfWImJfY1nh5BiScxVOxhs4RLAYg0e_xNEkNz78sUW8ycHy7YPiAmTogw_NFh/pubhtml?gid=0&single=true)
 
 
 ## Instruction
@@ -32,3 +31,7 @@ Objective: Explore Data and desciptive statistics
 #### Final Assignment (10 %)
 
 Objective: Visualize and Communicate
+
+### Instructor
+- ATCHARA TRAN-U-RAIKUL
+- JATAWAT XIE (Git: [safesit23](https://github.com/safesit23))
