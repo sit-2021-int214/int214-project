@@ -38,7 +38,7 @@ Our subject have git organization name [sit-2021-int214](https://github.com/sit-
 
 #### Midterm Assignment (10 %)
 
-Objective: Explore Data and desciptive statistics
+Objective: Explore Data and descriptive statistics
 
 #### Final Assignment (10 %)
 
