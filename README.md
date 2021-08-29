@@ -40,9 +40,16 @@ Our subject have git organization name [sit-2021-int214](https://github.com/sit-
 
 Objective: Explore Data and descriptive statistics
 
+1. Inspect data and explain about data
+2. Write your interesting in form of statements of problems
+3. Plan and write your process/step
+4. Explore Data and find descriptive statistics
+5. Summary your result
+
+
 #### Final Assignment (10 %)
 
-Objective: Visualize and Communicate
+Objective: Visualize and Communicate, Regression, Hypothesis Testing
 
 ### Instructor
 
