@@ -38,7 +38,7 @@ Our subject have git organization name [sit-2021-int214](https://github.com/sit-
 
 #### Midterm Assignment (10 %)
 
-Objective: Explore Data and descriptive statistics
+Objective: Exploritory data analysis (EDA) + descriptive statistics
 
 1. Inspect data and explain about data
 2. Write your interesting in form of statements of problems
