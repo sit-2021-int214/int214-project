@@ -1,50 +1,84 @@
 # INT214-Project
 
-This repository using for description Term Project in INT214 Statistics for Information Technology
+This repository using for giving details about Term Project in INT214 Statistics for Information Technology 1/2021
+
+### Learning Outcomes
+
+1. Apply quantitative models to solve real world problems in appropriate contexts
+2. Use statistical reasoning, formulate a problem in statistical terms, perform exploratory analysis of data by graphical and other means, and carry out a variety of formal inference procedures.
+3. Have communication skills which are necessary to effectively collaborate as part of interdisciplinary teams including the ability to interpret and communicate the results of a statistical analysis through oral and written reports.
+
+### Initial Step
+
+1. Form team with 3-5 members
+2. Select dataset
+3. Create Group Repository in Github Organization: [INT214 Statistics 2021](https://github.com/sit-2021-int214)
+
+Read more details [here](./Step.md)
+
+## Term Assessment (20 %)
+
+Raw score is 100
+
+- Midterm Assignment 35 % ---> 7 %
+- Final Assignment 65 % ---> 13 %
+
+---
+
+### Midterm Assignment (35 %)
+
+#### Details
+
+- Topics: Exploratory data analysis and desciptive statistics
+- Due date: 15 October 2021 (23:00 GMT+7)
+- Send Format: GIT Repository with R, md file (Or using Rmd, HTML file)
+- Feedback: Using [Teams](https://github.com/orgs/sit-2021-int214/teams) in Github
+
+#### Assessment Weighting
+
+1. Data Exploration (5 %)
+   - สามารถสำรวจชุดข้อมูลและอธิบายข้อมูลได้อย่างครบถ้วน
+2. Data Cleaning and Data Transformation (10 %)
+   - สามารถแปลงข้อมูลได้เหมาะสม
+   - สามารถวิเคราะห์และตรวจสอบข้อมูลต่าง ๆ ได้ถูกต้องและเหมาะสม
+   - เลือกใช้วิธีการทำความสะอาดข้อมูลได้อย่างถูกต้องและเหมาะสม (หากชุดข้อมูลนั้นไม่ต้องทำความสะอาด จะพิจารณาจากการวิเคราะห์และตรวจสอบข้อมูลแทน)
+3. Data Analysis with Descriptive Statistics (15 %)
+   - สามารถตั้งคำถามเกี่ยวกับชุดข้อมูลได้อย่างเหมาะสม
+   - เลือกใช้วิธีในการวิเคราะห์และสรุปผลสถิติได้ถูกต้องและเหมาะสม
+4. Other + Document (5 %)
+   - Assignment 2-3 (2 %)
+   - มีการจัดเรียงเอกสารใน GIT Repository แบ่งหัวข้อได้อย่างเหมาะสมและสอดคล้อง
+   - มีการวางแผนขั้นตอนกระบวนการในการวิเคราะห์ข้อมูลได้เหมาะสม
+   - เขียนอธิบาย สื่อสารให้ผู้อื่นสามารถเข้าใจได้
+
+---
+
+### Final Assignment (65 %)
+
+#### Details
+
+- Topics: Inferential Statistics, Data Visualization, Regression Analysis, and Communicate
+- Due date: (will announced later)
+- Send Format: GIT Repository + Oral Presentation
+
+#### Assessment Weighting
+
+1. Data Visualization (15 %)
+   - นำชุดข้อมูลมาแสดงผลได้เหมาะสมกับประเภทข้อมูล
+2. Analytical Inferential Statistics (15 %)
+   - ตั้งสมมุติฐาน ทดสอบสมุุติฐาน และสรุปผลได้อย่างถูกต้องและเหมาะสม
+3. Regression Analysis (10 %)
+   - สามารถตั้งคำถาม วิเคราะห์ ได้ถูกต้องและเหมาะสม
+4. Communicate (25 %)
+   - สามารถสื่อสารนำเสนอข้อมูลได้เหมาะสมและมีความน่าสนใจ
+
+---
 
 ## List of Team
 
 [See List of team and group_id here](https://docs.google.com/spreadsheets/d/e/2PACX-1vTAUUe9YGEoZzqtxjPxfWImJfY1nh5BiScxVOxhs4RLAYg0e_xNEkNz78sUW8ycHy7YPiAmTogw_NFh/pubhtml?gid=0&single=true)
 
-## Instruction
-
-#### 1.) Form team and select dataset (Explain in Week 2)
-
-1. Form team with 3-5 members and Create Group name
-2. Select dataset and share link that you get data
-3. Explain why you group interest this dataset.
-
-#### 2.) Initial with Group Repository (Explain in Week 3)
-
-Our subject have git organization name [sit-2021-int214](https://github.com/sit-2021-int214). One of members in your team join as members in this git organization and following this steps:
-
-1. One of team member create group repository in Organization. Set name as format 'groupid-topics' (ex. `001-survey`) \*\*You can change it laters
-2. Download as ZIP: [int214-template repository](https://github.com/sit-2021-int214/int214-template). Then push to your group repository
-3. Invites you friends to team repository that you created
-4. Edit details in README.md
-5. (Optional) I want each members in team try to add your homework file `HW01_63130500xxx.R` in **your group repository** in folder `assignment` to make sure that you can access your group repository.
-
-##### อธิบายภาษาไทย:
-
-ในรายวิชานี้จะใช้ git organization name [sit-2021-int214](https://github.com/sit-2021-int214) เพื่อรวบรวมผลงานที่น้อง ๆ ทำในรายวิชาเข้าไว้ด้วยกันโดยสัปดาห์นี้พี่ต้องการให้น้อง ๆ Initial Repository ของทีม โดยให้ตัวแทนกลุ่มเป็นคนทำตามขั้นตอนดังนี้
-
-1. สร้าง Repository ใน Organization นี้โดยตั้งชื่อ 'groupid-topics' (ex. `001-survey`) \*\*โดยสามารถเปลี่ยนทีหลังได้ (ให้ใช้ชื่อ topics แทนกลุ่มเพื่อง่ายต่อคนอื่นในการค้นหาสิ่งที่สนใจ)
-2. ให้ Download ZIP: [int214-template repository](https://github.com/sit-2021-int214/int214-template). แล้ววางไฟล์เหล่านี้ใน repo ที่พึ่งสร้างเพื่อให้ repo มี structure ที่เหมือนกันแล้ว push ขึ้นมา (เนื่องจากมันไม่ให้ fork repo เดียวกันใน org เดียวกัน)
-3. ให้เชิญเพื่อนในทีมเข้า git เพื่อมีสิทธิในการแก้ไข repo นี้
-4. ให้ edit README.md ของ repo น้อง ๆ เพื่อเป็นการระบุข้อมูลเกี่ยวกับกลุ่ม
-5. (Optional) อยากให้น้อง ๆ แต่ละคนลอง push ไฟล์การบ้าน week 1 ที่ทำลงใน folder `assignment` เพื่อจะได้มั่นใจได้ว่าน้องแต่ละคนมีสิทธิเข้าถึง read/write ใน repo กลุ่มได้
-
-## Assessment Weighting
-
-#### Midterm Assignment (10 %)
-
-Objective: Explore Data and desciptive statistics
-
-#### Final Assignment (10 %)
-
-Objective: Visualize and Communicate
-
-### Instructor
+## Instructor
 
 - ATCHARA TRAN-U-RAIKUL
 - JATAWAT XIE (Git: [safesit23](https://github.com/safesit23))
