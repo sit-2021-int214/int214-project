@@ -23,14 +23,13 @@ Raw score is 100
 - Midterm Assignment 35 % ---> 7 %
 - Final Assignment 65 % ---> 13 %
 
----
 
 ### Midterm Assignment (35 %)
 
 #### Details
 
 - Topics: Exploratory data analysis and desciptive statistics
-- Due date: 15 October 2021 (23:00 GMT+7)
+- Due date: 23 October 2021 (17:00 GMT+7)
 - Send Format: GIT Repository with R, md file (Or using Rmd, HTML file)
 - Feedback: Using [Teams](https://github.com/orgs/sit-2021-int214/teams) in Github
 
