@@ -20,8 +20,8 @@ Read more details [here](./Step.md)
 
 Total Score is 100
 
-- Midterm Assignment 35 Pts ---> 7 %
-- Final Assignment 65 Pts ---> 13 %
+- Midterm Assignment 35 Pts
+- Final Assignment 65 Pts
 
 
 ### Midterm Assignment (35 Pts)
