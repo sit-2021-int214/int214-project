@@ -57,20 +57,26 @@ Raw score is 100
 
 #### Details
 
-- Topics: Inferential Statistics, Data Visualization, Regression Analysis, and Communicate
-- Due date: (will announced later)
-- Send Format: GIT Repository + Oral Presentation
+- Topics: Inferential Statistics, Data Visualization, and Communicate
+- Due date: 17 December 2021 (23:00 GMT+7)
+- How to submit: send materials that used in presentation and zip project file (GIT Repository) in LEB2
+- Oral Presentation: 15 - 17 December 2021
 
 #### Assessment Weighting
 
 1. Data Visualization (15 %)
+   - แสดงผลข้อมูลในลักษณะ Dashboard โดยใช้เครื่องมือ BI Tools (Power BI, Google Studio, Tableau)
    - นำชุดข้อมูลมาแสดงผลได้เหมาะสมกับประเภทข้อมูล
-2. Analytical Inferential Statistics (15 %)
-   - ตั้งสมมุติฐาน ทดสอบสมุุติฐาน และสรุปผลได้อย่างถูกต้องและเหมาะสม
-3. Regression Analysis (10 %)
-   - สามารถตั้งคำถาม วิเคราะห์ ได้ถูกต้องและเหมาะสม
-4. Communicate (25 %)
+   - สามารถปฎิสัมพันธ์ (Interaction)เพื่อให้เห็นความสัมพันธ์ระหว่างข้อมูลได้
+   - มีการจัดเรียงองค์ประกอบได้เหมาะสมและครบถ้วน อาิทเช่น Title, Source References, Label, etc.
+   - BI Dashboard สามารถสื่อความหมายได้ด้วยตัวเอง (เข้าใจได้ง่าย)
+2. Analytical Inferential Statistics (20 %)
+   - กำหนดโจทย์ ตั้งสมมุติฐาน ทดสอบสมุุติฐาน และสรุปผลได้อย่างถูกต้องและเหมาะสม
+3. Data-Storytelling: Oral Presentation (30 %)
+   - นำเสนอ 5-7 นาที
    - สามารถสื่อสารนำเสนอข้อมูลได้เหมาะสมและมีความน่าสนใจ
+   - มีรูปแบบการเล่าเรื่องที่น่าสนใจ (Storytelling)
+   - ไม่จำกัดรูปแบบการนำเสนอ สามารถทำเป็น Infographic, Slide Presentation, หรือรูปแบบอื่น ๆ ก็ได้ สามารถใช้ BI Dashboard มาร่วมนำเสนอก็ได้
 
 ---
 
