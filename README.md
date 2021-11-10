@@ -16,44 +16,44 @@ This repository using for giving details about Term Project in INT214 Statistics
 
 Read more details [here](./Step.md)
 
-## Term Assessment (20 %)
+## Term Assessment (25 %)
 
-Raw score is 100
+Total Score is 100
 
-- Midterm Assignment 35 % ---> 7 %
-- Final Assignment 65 % ---> 13 %
+- Midterm Assignment 35 Pts ---> 7 %
+- Final Assignment 65 Pts ---> 13 %
 
----
 
-### Midterm Assignment (35 %)
+### Midterm Assignment (35 Pts)
 
 #### Details
 
 - Topics: Exploratory data analysis and desciptive statistics
-- Due date: 15 October 2021 (23:00 GMT+7)
+- Due date: 23 October 2021 (17:00 GMT+7)
 - Send Format: GIT Repository with R, md file (Or using Rmd, HTML file)
 - Feedback: Using [Teams](https://github.com/orgs/sit-2021-int214/teams) in Github
 
 #### Assessment Weighting
 
-1. Data Exploration (5 %)
+1. Data Exploration (5 Pts)
    - สามารถสำรวจชุดข้อมูลและอธิบายข้อมูลได้อย่างครบถ้วน
-2. Data Cleaning and Data Transformation (10 %)
+2. Data Cleaning and Data Transformation (10 Pts)
    - สามารถแปลงข้อมูลได้เหมาะสม
    - สามารถวิเคราะห์และตรวจสอบข้อมูลต่าง ๆ ได้ถูกต้องและเหมาะสม
    - เลือกใช้วิธีการทำความสะอาดข้อมูลได้อย่างถูกต้องและเหมาะสม (หากชุดข้อมูลนั้นไม่ต้องทำความสะอาด จะพิจารณาจากการวิเคราะห์และตรวจสอบข้อมูลแทน)
-3. Data Analysis with Descriptive Statistics (15 %)
+3. Data Analysis with Descriptive Statistics (15 Pts)
    - สามารถตั้งคำถามเกี่ยวกับชุดข้อมูลได้อย่างเหมาะสม
    - เลือกใช้วิธีในการวิเคราะห์และสรุปผลสถิติได้ถูกต้องและเหมาะสม
-4. Other + Document (5 %)
-   - Assignment 2-3 (2 %)
+   - ในการสรุปผลเป็นประโยคใจความสมบูรณ์ สามารถสื่อสารกับคนอื่นได้เหมาะสม (เช่น นักเรียนส่วนใหญ่มีค่าเฉลี่ย.... **ไม่ควรสรุปว่า avg = )
+4. Other + Document (5 Pts)
+   - Assignment 2-3 (2 Pts)
    - มีการจัดเรียงเอกสารใน GIT Repository แบ่งหัวข้อได้อย่างเหมาะสมและสอดคล้อง
    - มีการวางแผนขั้นตอนกระบวนการในการวิเคราะห์ข้อมูลได้เหมาะสม
    - เขียนอธิบาย สื่อสารให้ผู้อื่นสามารถเข้าใจได้
 
 ---
 
-### Final Assignment (65 %)
+### Final Assignment (65 Pts)
 
 #### Details
 
