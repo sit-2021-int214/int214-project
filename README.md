@@ -72,6 +72,9 @@ Total Score is 100
    - BI Dashboard สามารถสื่อความหมายได้ด้วยตัวเอง (เข้าใจได้ง่าย)
 2. Analytical Inferential Statistics (20 %)
    - กำหนดโจทย์ ตั้งสมมุติฐาน ทดสอบสมมุติฐาน และสรุปผลได้อย่างถูกต้องและเหมาะสม
+   - ตามตัวอย่างที่เคยสอนในห้อง [08-HypoTesting.md](https://github.com/safesit23/INT214-Statistics/blob/main/workshop/08-HypoTesting.md)
+   - ทำเพียง 1 ข้อ (หรือมากกว่าก็ได้) ลง md file เหมือนเดิม
+   - สามารถออกแบบโจทย์เป็น OnePop, TwoPop, Match Sample ได้หมดเลย โดยอาจจะใช้เรื่อง sample data หรือแบ่งข้อมูลทำ proportion ก็ได้ นอกจากนี้สามารถทำ Advance นอกเหนือจากที่สอนใน R เป็นหัวข้อ Regression Analysis and Prediction ก็ได้แต่ต้องทำถึง Testing for Significance (ส่วนนี้พี่มีอยู่ในสรุป Final ที่เคยแชร์ให้อยู่หน้า 21-25 ดูได้[ที่นี่](https://drive.google.com/file/d/1B12_ncOwToXmObkcB4oprYsgnbMWZRpB/view?usp=sharing)) 
 3. Data-Storytelling: Oral Presentation (30 %)
    - นำเสนอ 5-10 นาที
    - สามารถสื่อสารนำเสนอข้อมูลได้เหมาะสมและมีความน่าสนใจ มีรูปแบบการเล่าเรื่องราวน่าสนใจเช่น Data Storytelling
